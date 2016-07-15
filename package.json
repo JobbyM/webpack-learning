@@ -1,0 +1,25 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "webpack-learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JobbyM/webpack-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JobbyM/webpack-learning/issues"
+  },
+  "homepage": "https://github.com/JobbyM/webpack-learning#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
