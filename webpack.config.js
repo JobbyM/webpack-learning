@@ -13,5 +13,8 @@ module.exports = {
         loader: 'style!css'
       }
     ]
-  }
+  },
+  plugins: [
+    new webpack.BannerPlugin('This file is created by JobbyM\nThis file is auto')
+  ]
 }
